@@ -20,7 +20,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://localhost:4444/assets/Photos/SDA_IWA_030.jpg",
+                "@id": "crossingFonds.github.io/assets/Photos/SDA_IWA_030.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 1500,
