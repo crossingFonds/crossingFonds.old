@@ -20,7 +20,18 @@
   <script type='module'>
 
     var miradorInstance = Mirador.viewer({
-      id: 'my-mirador'
+
+        id: 'my-mirador',
+        workspaceControlPanel: {
+          enabled: true,
+        },
+        window: {
+          allowClose: true,
+        },
+        osdConfig: {
+          useCanvas: false, // disable the useCanvas option for OpenSeadragon
+        },
+
     });
 
   </script>
