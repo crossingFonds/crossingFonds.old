@@ -20,7 +20,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "crossingFonds.github.io/assets/Photos/SDA_IWA_030.jpg",
+                "@id": "https://ids.lib.harvard.edu/ids/iiif/47174896/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 1500,
