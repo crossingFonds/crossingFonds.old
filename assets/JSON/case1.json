@@ -34,7 +34,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "crossingFonds.github.io/assets/Photos/TheWorkingImage_24.jpg",
+                "@id": "https://crossingFonds.github.io/assets/Photos/TheWorkingImage_24.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 1500,
@@ -58,7 +58,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "crossingFonds.github.io/assets/Photos/SDA_IWA_030.jpg",
+                "@id": "https://crossingFonds.github.io/assets/Photos/SDA_IWA_030.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 1500,
@@ -83,7 +83,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "crossingFonds.github.io/assets/Photos/SD-01-01-0066.jpg",
+                "@id": "https://crossingFonds.github.io/assets/Photos/SD-01-01-0066.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 1500,

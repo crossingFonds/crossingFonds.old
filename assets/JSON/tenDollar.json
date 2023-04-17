@@ -24,7 +24,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:4444/assets/Video/tenDollars.mp4",
+                "id": "https://crossingfonds.github.io/assets/Video/tenDollars.mp4",
                 "type": "Video",
                 "height": 360,
                 "width": 480,
